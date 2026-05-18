@@ -81,7 +81,7 @@ System architecture, data pipelines, and security posture for an AI-enabled clin
 **Gnar Coding** — Founder & Cybersecurity Educator *(Nov 2020 – Present)*
 14K+ subscriber YouTube channel covering ethical hacking, AppSec, malware analysis, and bug bounty methodology. Public tooling and research at [github.com/gnarcoding](https://github.com/gnarcoding).
 
-**Remote Care** — Software Security Engineer *(Nov 2022 – Jun 2024)*
+**emote Care** — Software Security Engineer *(Nov 2022 – Jun 2024)*
 Designed and reviewed encryption and authentication mechanisms; conducted web application security reviews and threat modeling; authored Rust-based smart-contract test suites.
 
 **The University of Texas at San Antonio** — Teaching Assistant, Cybersecurity Bootcamp *(Aug 2022 – Aug 2024)*
