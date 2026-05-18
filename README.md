@@ -55,8 +55,6 @@ Strongest individual categories: **Forensics**, **Password Cracking**, and **Ope
 
 ### Reflection
 
-*Draft — rewrite in your own voice before publishing.*
-
 Captaining a seven-person team in the Experienced Students Bracket was a different exercise from competing solo. With nine challenge categories and a 48-hour clock, the captain's job was largely about routing — assigning challenges to strengths, tracking what was still open, and keeping people unstuck — as much as it was about technical execution. The team's 98% accuracy on 197 attempts came from collective discipline about not submitting until we were confident, which is its own muscle.
 
 The contrast between my team and individual results was instructive. With teammates to check work, our team accuracy was 98%. Solo, mine dropped to 78%. That gap is the part of the exercise that doesn't show up in the final ranking: the value of a second set of eyes before you commit to an answer.
