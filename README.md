@@ -105,7 +105,7 @@ Led classroom sessions and mentored students through offensive and defensive fun
 
 ## Connect
 
-- **LinkedIn:** [ericroldan-700a04225](https://linkedin.com/in/ericroldan-700a04225)
+- **LinkedIn:** [ericroldan-700a04225](https://www.linkedin.com/in/eric-roldan-700a04225/)
 - **GitHub:** [@gnarcoding](https://github.com/gnarcoding)
 - **YouTube:** [@GnarCoding](https://youtube.com/@GnarCoding)
 - **Email:** eric@gnarcoding.com
